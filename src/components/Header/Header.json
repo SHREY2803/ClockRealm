@@ -1,0 +1,42 @@
+{
+    "search":{
+        "placeholder":"what are you looking for?",
+        "iconClass":"fa-solid fa-magnifying-glass"
+    },
+    "menuItems":[
+        {
+            "title":"Features",
+            "link":"#"
+        },
+        {
+            "title":"Beauty",
+            "link":"#"
+        },
+        {
+            "title":"Shop",
+            "link":"#"
+        },
+        {
+            "title":"Products",
+            "link":"#",
+            "dropDown":[
+                {
+                    "title":"Smart Watch",
+                    "link":"#"
+                },
+                {
+                    "title":"Apple Watch",
+                    "link":"#"
+                },
+                {
+                    "title":"Apple Watch",
+                    "link":"#"
+                },
+                {
+                    "title":"Apple Watch",
+                    "link":"#"
+                }
+            ]
+        }
+    ]
+}
