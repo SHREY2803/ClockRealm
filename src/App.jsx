@@ -1,10 +1,15 @@
 import React from 'react';
-import './index.css'
+import './index.css';
+import Header from "./components/Header/Header.jsx";
+import Main from './components/Main/Main.jsx';
+import Footer from "./components/Footer/Footer.jsx";
 
 const App = () => {
   return (
-    <div>
-      Home
+    <div className='App'>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   )
 }
