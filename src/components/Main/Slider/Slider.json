@@ -1,0 +1,40 @@
+{
+    "slides":[
+        {
+            "image":"slider1",
+            "announcement":"Sale! Up To 50% Off",
+            "headLine":"Discover Smart <br> Watches",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nostrum provident porro quae!",
+            "buttonText":"Shop Now",
+            "buttonLink":"#"
+
+        },
+        {
+            "image":"slider2",
+            "announcement":"Sale! Up To 20% Off",
+            "headLine":"Discover Smart <br> Watches",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nostrum provident porro quae!",
+            "buttonText":"Shop Now",
+            "buttonLink":"#"
+
+        },
+        {
+            "image":"slider3",
+            "announcement":"Sale! Up To 60% Off",
+            "headLine":"Discover Smart <br> Watches",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nostrum provident porro quae!",
+            "buttonText":"Shop Now",
+            "buttonLink":"#"
+
+        },
+        {
+            "image":"slider4",
+            "announcement":"Sale! Up To 40% Off",
+            "headLine":"Discover Smart <br> Watches",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nostrum provident porro quae!",
+            "buttonText":"Shop Now",
+            "buttonLink":"#"
+
+        }
+    ]
+}
