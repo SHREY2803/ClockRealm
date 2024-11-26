@@ -25,7 +25,7 @@
                     "link":"#"
                 },
                 {
-                    "title":"Apple Watch",
+                    "title":"Casual Watch",
                     "link":"#"
                 },
                 {
@@ -33,10 +33,24 @@
                     "link":"#"
                 },
                 {
-                    "title":"Apple Watch",
+                    "title":"Health Tracker",
                     "link":"#"
                 }
             ]
+        },
+        {
+            "title":"Blog",
+            "link":"#"
+        },
+        {
+            "title":"Contact",
+            "link":"#"
         }
+    ],
+    "icons":[
+        {"iconClass":"fa-regular fa-user", "link":"#"},
+        {"iconClass":"fa-regular fa-heart", "link":"#"},
+        {"iconClass":"fa-solid fa-bag-shopping", "link":"#"}
+        
     ]
 }
