@@ -3,6 +3,7 @@ import "./Main.css";
 import Slider from './Slider/Slider.jsx';
 import Category from './Category/Category.jsx';
 import Collection from './Collection/Collection.jsx';
+import Banner from './Banner/Banner.jsx';
 
 
 const Main = () => {
@@ -11,6 +12,7 @@ const Main = () => {
       <Slider />
       <Category />
       <Collection />
+      <Banner />
     </div>
   )
 }
