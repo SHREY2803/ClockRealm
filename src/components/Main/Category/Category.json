@@ -1,0 +1,34 @@
+{
+    "category":[
+        {
+            "title":"Smart Watch",
+            "count":2,
+            "image":"catImg1",
+            "link":"#"
+        },
+        {
+            "title":"Classic Watch",
+            "count":3,
+            "image":"catImg2",
+            "link":"#"
+        },
+        {
+            "title":"Sports Watch",
+            "count":6,
+            "image":"catImg3",
+            "link":"#"
+        },
+        {
+            "title":"Fit bands",
+            "count":5,
+            "image":"catImg4",
+            "link":"#"
+        },
+        {
+            "title":"Health Tracker",
+            "count":4,
+            "image":"catImg5",
+            "link":"#"
+        }
+    ]
+}
