@@ -45,11 +45,13 @@
     text-decoration: none;
     font-size: 1.1rem;
     font-weight: bolder;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.3s ease;   
 }
 .swiper .content a:hover{
     background-color: black;
     color: white;
     cursor: pointer;
+
 }
 
 /*Responsive*/
