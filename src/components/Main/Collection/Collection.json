@@ -1,0 +1,47 @@
+{
+    "title":{
+        "name":"Collections"
+    },
+    "collection":[
+        {
+            "title":"Galaxy Watch",
+            "image":"collectionImg1",
+            "price":"$489.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        },
+        {
+            "title":"Apple Watch",
+            "image":"collectionImg2",
+            "price":"$589.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        },
+        {
+            "title":"Seiko Vintage Watch",
+            "image":"collectionImg3",
+            "price":"$389.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        },
+        {
+            "title":"Seiko Proffessional Watch",
+            "image":"collectionImg4",
+            "price":"$289.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        }
+    ]
+}
