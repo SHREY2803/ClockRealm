@@ -92,8 +92,14 @@
     gap: 20px;
 }
 .header .row-wrapper .icons ul li a{
+    display: inline-block;
     color: var(--color-black);
     font-size: 1.1rem;
+    transition: transform 0.3s ease-in-out;
+}
+.header .row-wrapper .icons ul li a:hover{
+    transform: scale(1.2);
+    
 }
 
 /*Mobile Menu*/
