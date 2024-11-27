@@ -31,12 +31,12 @@ const Collection = () => {
             <div className="icons">
               <div className="wishlist">
                 <a href={item.wishlistLink}>
-                <i class="fa-regular fa-heart"></i>
+                <i className="fa-regular fa-heart"></i>
                 </a>
               </div>
               <div className="compare">
                 <a href={item.compareLink}>
-                <i class="fa-solid fa-code-compare"></i>
+                <i className="fa-solid fa-code-compare"></i>
                 </a>
               </div>
             </div>
