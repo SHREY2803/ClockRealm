@@ -5,6 +5,7 @@ import Category from './Category/Category.jsx';
 import Collection from './Collection/Collection.jsx';
 import Banner from './Banner/Banner.jsx';
 import Trend from './Trends/Trend.jsx';
+import Benefit from './Benefits/Benefit.jsx';
 
 
 const Main = () => {
@@ -15,6 +16,7 @@ const Main = () => {
       <Collection />
       <Banner />
       <Trend />
+      <Benefit />
     </div>
   )
 }
