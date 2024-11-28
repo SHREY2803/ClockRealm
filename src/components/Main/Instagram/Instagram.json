@@ -1,0 +1,32 @@
+{
+    "title":{
+        "name":"Our instagram Handle"
+    },
+    "boxes":[
+        {
+            "image":"instaImg1",
+            "iconClass":"fa-brands fa-instagram",
+            "link":"https://www.instagram.com/kulkarnishrey/"
+        },
+        {
+            "image":"instaImg2",
+            "iconClass":"fa-brands fa-instagram",
+            "link":"https://www.instagram.com/kulkarnishrey/"
+        },
+        {
+            "image":"instaImg3",
+            "iconClass":"fa-brands fa-instagram",
+            "link":"https://www.instagram.com/kulkarnishrey/"
+        },
+        {
+            "image":"instaImg4",
+            "iconClass":"fa-brands fa-instagram",
+            "link":"https://www.instagram.com/kulkarnishrey/"
+        },
+        {
+            "image":"instaImg5",
+            "iconClass":"fa-brands fa-instagram",
+            "link":"https://www.instagram.com/kulkarnishrey/"
+        }
+    ]
+}
