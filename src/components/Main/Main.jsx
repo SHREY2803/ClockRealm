@@ -6,6 +6,8 @@ import Collection from './Collection/Collection.jsx';
 import Banner from './Banner/Banner.jsx';
 import Trend from './Trends/Trend.jsx';
 import Benefit from './Benefits/Benefit.jsx';
+import Instagram from './Instagram/Instagram.jsx';
+
 
 
 const Main = () => {
@@ -17,6 +19,8 @@ const Main = () => {
       <Banner />
       <Trend />
       <Benefit />
+      <Instagram />
+
     </div>
   )
 }
