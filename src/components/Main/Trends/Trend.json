@@ -1,0 +1,47 @@
+{
+    "title":{
+        "name":"Trending Products"
+    },
+    "trends":[
+        {
+            "title":"Galaxy Watch",
+            "image":"trendsImg1",
+            "price":"$489.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        },
+        {
+            "title":"Apple Watch",
+            "image":"trendsImg2",
+            "price":"$589.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        },
+        {
+            "title":"Casual Watch",
+            "image":"trendsImg3",
+            "price":"$389.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        },
+        {
+            "title":"FitBit Watch",
+            "image":"trendsImg4",
+            "price":"$289.00",
+            "link":"#",
+            "wishlistLink":"#",
+            "compareLink":"#",
+            "quickViewLink":"#",
+            "cartLink":"#"
+        }
+    ]
+}
