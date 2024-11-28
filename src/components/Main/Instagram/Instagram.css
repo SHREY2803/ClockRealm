@@ -1,0 +1,66 @@
+.insta {
+    padding: 0 0 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+  }
+  .insta .title h2{
+    font-size:2rem;
+    font-weight: 700;
+  }
+  
+  .insta .box-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow the items to wrap to the next line */
+    gap: 10px; /* Add spacing between boxes */
+    justify-content: center; /* Center the items */
+  }
+  
+  .insta .box-container .box {
+    width: 18vw; /* Fixed size for the boxes */
+    position: relative; /* For overlay positioning */
+    overflow: hidden; /* Hide overflow for styling */
+    border-radius: 8px; /* Rounded corners if needed */
+  }
+  
+  .insta .box-container .box img {
+    width: 100%; /* Make the image fit the box */
+    height: 100%; /* Make the image fit the box */
+    object-fit: cover; /* Maintain aspect ratio and crop if needed */
+  }
+  
+  .insta .box-container .box .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0; /* Initially hidden */
+    transition: opacity 0.3s ease; /* Smooth hover effect */
+  }
+  
+  .insta .box-container .box:hover .overlay {
+    opacity: 1; /* Show overlay on hover */
+  }
+  
+  .insta .box-container .box .overlay i {
+    color: #fff; /* White Instagram icon */
+    font-size: 24px; /* Adjust icon size */
+  }
+  
+@media screen and (max-width:1024px) {
+    .insta .box-container {
+        flex-direction: column;
+        align-items: center;
+      }
+      .insta .box-container .box {
+        width: 95%;
+        border-radius: 20px;
+      }
+  }
