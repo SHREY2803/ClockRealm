@@ -2,8 +2,8 @@ import React from "react";
 import "./Collection.css";
 import collectionData from "./Collection.json";
 
-import CollectionImg1 from "../../../assets/collection-1.webp";
-import CollectionImg2 from "../../../assets/collection-2.webp";
+import CollectionImg1 from "../../../assets/collection-2.webp";
+import CollectionImg2 from "../../../assets/collection-1.webp";
 import CollectionImg3 from "../../../assets/collection-3.webp";
 import CollectionImg4 from "../../../assets/collection-4.webp";
 
