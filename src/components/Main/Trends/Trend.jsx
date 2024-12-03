@@ -2,8 +2,8 @@ import React from 'react';
 import './Trend.css';
 import trendsData from './Trend.json';
 import TrendsImg1 from '../../../assets/pink_galaxy.png';
-import TrendsImg2 from '../../../assets/Trend2.webp';
-import TrendsImg3 from '../../../assets/Trend3.webp';
+import TrendsImg2 from '../../../assets/trend2.webp';
+import TrendsImg3 from '../../../assets/trend3.webp';
 import TrendsImg4 from '../../../assets/final_fitbit.png';
 
 
