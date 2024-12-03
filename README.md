@@ -30,3 +30,11 @@ Follow these steps to run the project locally:
     npm run dev
 5.Open your browser and go to http://localhost:3000
 
+## Preview 
+- **Product Display**: Yo can visit our website here.
+
+## Future Enhancements
+- Implement a filter and sorting feature for better user experience.
+- Include user authentication for personalized services.
+ 
+
