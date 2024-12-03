@@ -9,12 +9,24 @@ ClockRealm is a sleek and modern web application that mimics popular watch websi
 
 ## Tech Stack  
 - **React**: Frontend framework for building a dynamic UI.  
-- **CSS/Styling Framework**: (Add if you're using Tailwind, Material-UI, Chakra UI, or custom CSS).  
-- **Other Libraries**: Mention any additional libraries used.  
+- **CSS/Styling Framework**: Simple CSS styling is used.  
+
 
 ## Installation and Setup  
 Follow these steps to run the project locally:  
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/clockrealm.git  
+   git clone https://github.com/SHREY2803/ClockRealm.git 
+   ```
+2. Navigate to the project directory:
+    ```bash
+    cd clock_world
+3. Install dependencies:
+    ```bash
+    npm install  
+4. Start the development server:
+    ```bash
+    npm run dev
+5.Open your browser and go to http://localhost:3000
+
