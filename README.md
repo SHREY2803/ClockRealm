@@ -41,6 +41,8 @@ Follow these steps to run the project locally:
 - Feel free to contribute to ClockRealm by submitting issues or pull requests.
 
 
-- Let me know if you need help 🚀
- 
+## 🌟 Feedback and Contributions
+Feel free to contribute to this project or share your feedback! You can fork the repo or open an issue.
+
+Let me know if you’d like further customization! 🚀
 
