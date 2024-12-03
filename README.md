@@ -36,5 +36,11 @@ Follow these steps to run the project locally:
 ## Future Enhancements
 - Implement a filter and sorting feature for better user experience.
 - Include user authentication for personalized services.
+
+## Contributing
+- Feel free to contribute to ClockRealm by submitting issues or pull requests.
+
+
+-Let me know if you need help 🚀
  
 
